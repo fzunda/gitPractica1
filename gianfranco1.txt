@@ -1,5 +1,22 @@
+<<<<<<< HEAD
 Tocando el mismo archivo (gianfranco)
 Es hora de romper todo :)
 
 
+
+
 Seguimos probando :D
+=======
+Hola soy el archivo 1
+Es hora de romper todo >:D 
+
+ todoias( abril)s
+
+
+asdjjdd
+
+
+
+
+dicho y hecho !:)
+>>>>>>> 6535c67e42372d1d44761348abe544b35e25fbe3
