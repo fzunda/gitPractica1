@@ -10,14 +10,13 @@ Es hora de romper todo :)
 
 
 Seguimos probando :D
-=======
 Hola soy el archivo 1
 Es hora de romper todo >:D 
 
+<<<<<<< HEAD
  todoias( abril)s
 
 
-asdjjdd
 
      
 
@@ -25,3 +24,10 @@ asdjjdd
 dicho y hecho !:)
 >>>>>>> 6535c67e42372d1d44761348abe544b35e25fbe3
 >>>>>>> f5f6a1124a0e9b29dee646d6d663f5bc661c1359
+=======
+ Limpiando
+
+
+
+dicho y hecho !:)
+>>>>>>> ccdc3673ed9f633db6b717554439f0a70e72e0da
